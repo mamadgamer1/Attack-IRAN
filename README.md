@@ -8,8 +8,6 @@ With This Tools Attack Iran Gov Sites :)
 
 ````apt upgrade````
 
-```` pkg update ````
-
 ```` pkg upgrade && pkg update ````
 
 ```` pkg install python3 ````
@@ -20,7 +18,7 @@ With This Tools Attack Iran Gov Sites :)
 
 ````ls````
 
-````cd Attack````
+````cd Attack-IRAN````
 
 ````ls````
 
